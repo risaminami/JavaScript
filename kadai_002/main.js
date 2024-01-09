@@ -10,7 +10,7 @@ const typedfield = document.getElementById("typed");
 const wrap = document.getElementById("wrap");
 const start = document.getElementById("start");
 const count = document.getElementById("count");
-//const num = document.getElementById("num");
+const num = document.getElementById("num");
 //console.log(count);
 
 //複数のテキストを格納する配列
